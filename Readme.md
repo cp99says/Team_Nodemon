@@ -34,7 +34,7 @@
     similar apart from a few points. Users with a similar order history or similar likes or dislikes
     are suggested near alike products.
     
-    Using the apriori algorithm, we can determine patterns and trends in an user’s past orders based
+    Using the apriori algorithm, we can determine the patterns and trends in an user’s past orders based
     on pruning frequency and candidate items to improve joining efficiency. This algorithm can also 
     be used to determine recurring orders and send push  notifications to the user for the same.
 
@@ -75,7 +75,7 @@
     same delivery agent therefore keeping the max possible delivery agents available for further orders.
     
     Suppose customer 1 and customer 2 from nearby localities order products at the same time, their 
-    orders will be delivered via the nearest same delivery agent. This facilitates relay deliveries and 
+    orders will be delivered via the nearest same delivery agent. This facilitates relay the deliveries and 
     ensures max possible delivery agents are available for further orders.
     ```
 
